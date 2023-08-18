@@ -1,3 +1,6 @@
+#Desafio
+#Você precisa criar uma calculadora, onde terão 5 opções (soma, subtração, multiplicação, divisão e sair) e precisa sair o resultado do cálculo escolhido pelo usuário
+
 resultado = ''
 
 loop do
